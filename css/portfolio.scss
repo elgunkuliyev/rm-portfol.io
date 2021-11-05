@@ -1,0 +1,19 @@
+.carousel-indicators1 {
+    right: 0;
+    bottom: -30px;
+	
+	li {
+		// background-color: red;
+		outline: 1px solid lightgray;
+	}
+	
+	.active {
+		// background-color: blue;
+		outline: 1px solid black;
+	}
+}
+
+img {
+	height: 200px;
+}
+

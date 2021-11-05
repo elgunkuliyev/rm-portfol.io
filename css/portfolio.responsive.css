@@ -1,0 +1,43 @@
+@media screen  and (max-width:985px){
+    .icons{
+        margin-top: 0 !important;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer{
+        text-align: center;
+    }
+}
+
+
+@media screen  and (max-width:540px){
+    #One-section .one-text h1{
+        font-size: 25px !important;
+    }
+
+    #One-section .one-text p{
+        font-size: 12px !important;
+    }
+}
+
+@media screen  and (max-width:450px){
+    #One-section .one-text h1{
+        font-size: 25px !important;
+    }
+
+    #One-section .one-text p{
+        font-size: 12px !important;
+    }
+}
+
+
+@media screen  and (max-width:321px){
+    #One-section .one-text h1{
+        font-size: 25px !important;
+    }
+
+    #One-section .one-text p{
+        font-size: 12px !important;
+    }
+}

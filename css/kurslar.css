@@ -1,0 +1,164 @@
+/* header  */
+
+* {
+    font-family: "Poppins", sans-serif !important;
+}
+.navbar-brand{
+    color: #00B569 !important;
+    font-weight: 600;
+    font-size: 24px
+    
+}
+
+
+.nav-link{
+    position: static;
+    z-index: 1;
+    font-weight: 480;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
+header {
+    position: relative;
+}
+
+/* header  */
+
+
+
+
+
+
+
+/* one section  */
+
+
+#One-section{
+    background: linear-gradient(89.91deg, #59ACFB 0.14%, rgba(125, 84, 253, 0.91) 99.98%);
+}
+
+.card{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    box-shadow: inset 0px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+}
+
+.card a:hover{
+    text-decoration: none;
+}
+
+.card a{
+    color: #000;
+}
+
+.dark{
+    display: flex;
+    justify-content: space-between ;
+}
+
+.kurs-icon{
+    display: flex;
+    justify-content: space-between ;
+}
+
+.foot{
+    font-size: 12px;
+}
+
+
+
+/* one section end */
+
+
+
+
+
+
+/* two section*/
+
+
+#Two-section{
+   margin-top: 100px;
+   margin-bottom: 100px;
+   background: #5B53E1;
+   padding: 90px 0;
+}
+
+.text1{
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000;
+}
+
+.btn-class{
+    display: flex;
+    justify-content: center;
+}
+
+.text2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+}
+
+
+.button1{
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.kurs-body{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 13px;
+    width: 100%;
+    background: #FFFFFF;
+}
+
+/* two section end */
+
+
+
+
+/* three section  */
+
+
+footer{
+    background-color: #2E3A59;
+}
+
+footer h3{
+    color: #00B569 !important ;
+}
+
+footer p{
+    color: #ffffff;
+    font-size: 14px !important;
+    margin-bottom: 1rem;
+}
+
+.icon-1{
+    color: #FFFFFF !important;
+    margin: 0 14px !important;
+}
+
+.icons{
+    margin-top: 85px !important;
+}
+
+
+/* three section end  */

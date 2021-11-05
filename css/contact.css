@@ -1,0 +1,91 @@
+/* header  */
+
+* {
+    font-family: "Poppins", sans-serif !important;
+}
+.navbar-brand{
+    color: #00B569 !important;
+    font-weight: 600;
+    font-size: 24px
+    
+}
+
+
+.nav-link{
+    position: static;
+    z-index: 1;
+    font-weight: 480;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
+header {
+    position: relative;
+}
+
+/* header  */
+
+
+/* one section  */
+.card{
+    box-shadow: 4px 8px 8px 0px #0000001F;
+    border-radius: 22px !important;
+    width: 400px;
+    background: #EDF1F7 !important;
+
+}
+.contact-card{
+    display: flex;
+    margin: 0 15px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.contact-right{
+    display: flex;
+    flex-direction: column;
+    padding: 0 13px;
+}
+
+.contact-card p{
+    font-weight: bold;
+    
+}
+
+.contact-right a:hover{
+    text-decoration: none;
+}
+
+.contact-right a:hover p{
+    color: #000;
+}
+
+
+/* one section end */
+
+
+
+footer{
+    background-color: #2E3A59;
+}
+
+footer h3{
+    color: #00B569 !important ;
+}
+
+footer p{
+    color: #ffffff;
+    font-size: 14px !important;
+    margin-bottom: 1rem;
+}
+
+.icon-1{
+    color: #FFFFFF !important;
+    margin: 0 14px !important;
+}
+
+.icons{
+    margin-top: 85px !important;
+}

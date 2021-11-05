@@ -1,0 +1,157 @@
+
+* {
+    font-family: "Poppins", sans-serif !important;
+}
+.navbar-brand{
+    color: #00B569 !important;
+    font-weight: 600;
+    font-size: 24px
+    
+}
+
+
+.nav-link{
+    position: static;
+    z-index: 1;
+    font-weight: 480;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
+header {
+    position: relative;
+}
+
+/* header  */
+
+
+
+/* one section  */
+#One-section{
+    background: #28254E;
+    height: 460px;
+}
+
+.kurs-left{
+    color: #FFFFFF;
+}
+
+.card-head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-head h4{
+    font-size: unset
+}
+
+.card-head span{
+    font-size: 12px;
+    text-decoration: line-through;
+}
+
+.card-head p{
+    font-size: smaller;
+    color: #F63030;
+}
+
+.kurs-buton{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn1{
+    background: rgba(152, 30, 183, 0.68);
+    border-radius: 6px;
+}
+
+.btn2{
+    background: #EDF1F7;
+    border: 1px solid #0C65D5;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✔';
+    margin-left: -20px;
+  }
+
+  ul li{
+      margin: 20px 0 !important;
+  }
+
+  .kurs-about h6{
+    margin-left: 20px;
+  }
+
+  .kurs-right .card{
+    border: 1px solid #F7F9FC;
+    box-sizing: border-box;
+    box-shadow: 0px 9px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+  }
+
+  .kurs-right{
+      position: absolute;
+      margin-left: 25px;
+  }
+
+  /* .kurs-right{
+    box-shadow: 0px 9px 8px 0px #00000014;
+  } */
+
+/* one section end */
+
+
+
+/* two section  */
+
+.card-kurs p{
+    color: #222B45;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 16px;
+    margin-left: 15px;
+}
+
+.card-kurs{
+    display: flex;
+    
+}
+
+/* two section end */
+
+
+
+
+footer{
+    background-color: #2E3A59;
+}
+
+footer h3{
+    color: #00B569 !important ;
+}
+
+footer p{
+    color: #ffffff;
+    font-size: 14px !important;
+    margin-bottom: 1rem;
+}
+
+.icon-1{
+    color: #FFFFFF !important;
+    margin: 0 14px !important;
+}
+
+.icons{
+    margin-top: 85px !important;
+}

@@ -1,0 +1,103 @@
+@media screen  and (max-width:1000px){
+    .kurs-right{
+        position: unset;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    #One-section{
+        height: auto !important;
+    }
+
+    .icons{
+        margin-top: 0px !important;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:800px){
+    .icons{
+        margin-top: 0px !important;
+    }
+}
+
+@media screen  and (max-width:321px){
+    .kurs-left h3{
+        font-size: 21px;
+    }
+    .kurs-left p{
+        font-size: 11px;
+    }
+    .kurs-left img{
+        width: 286px;
+    }
+
+    .kurs-right{
+        margin-left: 4px;
+    }
+
+    .card-kurs p{
+        font-size: 13px;
+    }
+
+    .card-kurs2 p{
+        font-size: 13px;
+    }
+
+    .icons{
+        margin-top: 0px !important;
+    }
+}
+
+
+@media screen  and (max-width:375px){
+   
+
+    .kurs-right{
+        margin-left: 4px !important;
+    }
+
+
+    .card-kurs p{
+        font-size: 16px;
+    }
+
+    .card-kurs2 p{
+        font-size: 14px;
+    }
+
+    .icons{
+        margin-top: 0px !important;
+    }
+    
+}
+
+
+@media screen  and (max-width:415px){
+   
+
+    .kurs-right{
+        margin-left: 4px !important;
+    }
+
+
+    .card-kurs p{
+        font-size: 16px;
+    }
+
+    .card-kurs2 p{
+        font-size: 14px;
+    }
+
+    .icons{
+        margin-top: 0px !important;
+    }
+    
+}
+

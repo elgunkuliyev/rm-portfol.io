@@ -1,0 +1,33 @@
+@media screen  and (max-width:625px){
+    .img-rec{
+        width: 125px;
+    }
+}
+
+@media screen  and (max-width:575px){
+    .card {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen  and (max-width:985px){
+    .icons{
+        margin-top: 0 !important;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer{
+        text-align: center;
+    }
+}
+
+@media screen  and (max-width:321px){
+    .kurs-icon h5{
+        font-size: 16px;
+    }
+    .dark p{
+        font-size: 15px;
+    }
+}

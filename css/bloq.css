@@ -1,0 +1,168 @@
+/* header  */
+
+* {
+    font-family: "Poppins", sans-serif !important;
+}
+.navbar-brand{
+    color: #00B569 !important;
+    font-weight: 600;
+    font-size: 24px
+    
+}
+
+
+.nav-link{
+    position: static;
+    z-index: 1;
+    font-weight: 480;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
+header {
+    position: relative;
+}
+
+/* header  */
+
+
+
+/* one section  */
+
+
+
+#One-section{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/kitab.png );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: -3;
+}
+#One-section .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(100% 1370.33% at 0% 4.76%, rgba(66, 129, 223, 0.67) 0%, rgba(66, 129, 223, 0.24) 100%);
+    opacity: .5;
+    z-index: 3;
+}
+#One-section .one-text{
+    margin-top:4rem;
+    margin-bottom:4rem;
+    text-align: center;
+    position: relative;
+    z-index: 111;
+}
+#One-section .home-page{
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 1111;
+}
+#One-section .home-page span{
+    color: #fff;
+    margin: 0 10px;
+}
+#One-section .one-text h1{
+   color:#E5E5E5;
+}
+#One-section .one-text p{
+    color:#E5E5E5;
+ }
+
+
+ .text-span{
+     color: #8F9BB3 !important;
+ }
+
+ .text1{
+    color: #FFFFFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    text-align: left;
+ }
+
+ .row a{
+     text-decoration: none !important;
+ }
+
+/* one section end */
+
+/* Two section */
+#Two select{
+    width: 130px;
+    padding: 5px;
+    border-radius: 8px;
+    height: 40px;
+    background-color: #EDF1F7;
+    margin: 0 10px;
+}
+#Two .card-two{
+    width: 100%;
+    height:400px;
+    margin: 15px 0;
+}
+#Two .card-two img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+#Two .card-two .card-item-title {
+    padding: 10px 5px;
+}
+#Two .card-two .card-item-title h4{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000;
+}
+#Two .card-two .card-date{
+    position: relative;
+    top: 0px;
+    left: 5px;
+}
+#Two .card-two .card-date span{
+    color: #8F9BB3;
+    font-size: 14px;
+}
+
+
+
+/* three section  */
+
+
+
+footer{
+    background-color: #2E3A59;
+}
+
+footer h3{
+    color: #00B569 !important ;
+}
+
+footer p{
+    color: #ffffff;
+    font-size: 14px !important;
+    margin-bottom: 1rem;
+}
+
+.icon-1{
+    color: #FFFFFF !important;
+    margin: 0 14px !important;
+}
+
+.icons{
+    margin-top: 85px !important;
+}
+
+/* three section end  */

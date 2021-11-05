@@ -1,0 +1,223 @@
+/* header  */
+
+* {
+    font-family: "Poppins", sans-serif !important;
+}
+.navbar-brand{
+    color: #00B569 !important;
+    font-weight: 600;
+    font-size: 24px
+    
+}
+
+
+.nav-link{
+    position: static;
+    z-index: 1;
+    font-weight: 480;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
+header {
+    position: relative;
+}
+
+/* header  */
+
+
+
+
+
+/* one section  */
+
+.text1{
+    text-align: center;
+    font-weight: 500;
+    font-size: 48px;
+    color: #F0FFF5;
+}
+
+
+.text2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 17px;
+    color: #fff;
+}
+
+.text3{
+    color: #8F9BB3;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.text4{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+#One-section{
+    width: 100%;
+    height: auto;
+    background-image: url(../img/phone.svg );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: -3;
+}
+#One-section .overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(100% 988.54% at 0% 67.36%, rgba(11, 13, 17, 0.57) 0%, rgba(6, 35, 79, 0.66) 100%, rgba(71, 94, 128, 0.66) 100%);
+    opacity: .5;
+    z-index: 3;
+}
+#One-section .one-text{
+    margin-top:4rem;
+    margin-bottom:4rem;
+    text-align: center;
+    position: relative;
+    z-index: 111;
+}
+#One-section .home-page{
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 1111;
+}
+#One-section .home-page span{
+    color: #fff;
+    margin: 0 10px;
+}
+#One-section .one-text h1{
+   color:#E5E5E5;
+}
+#One-section .one-text p{
+    color:#E5E5E5;
+ }
+
+
+ .text-span{
+     color: #8F9BB3 !important;
+ }
+
+
+/* one section end */
+
+
+
+
+
+/* two section */
+
+/* VACANCY-CARDS */
+.slick-slide{
+    width: 245px !important;
+}
+.vacancy-card{
+    background-color: transparent;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.vacancy-card img{
+    width: 100%;
+    height: 200px;
+}
+.vacancy-card-footer p{
+    font-size: 16px;
+    color: #000;
+    letter-spacing:.4px;
+    line-height: 20px;
+}
+.vacancy-card-footer{
+    margin: 10px 0;
+}
+.left-arrow-slider1{
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    left: -10px;
+    font-size: 30px;
+    color: #000;
+    line-height: 1.3;
+    z-index: 99;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+}
+.right-arrow-slider1{
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    right: -10px;
+    font-size: 30px;
+    color: #000;
+    line-height: 1.3;
+    z-index: 99;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+}
+
+.vacancy-card-footer h5{
+    font-size: 14px;
+}
+
+.vacancy-card-footer p{
+    font-size: 10px;
+}
+
+/* VACANCY-CARDS-END */
+
+
+/* two section end */
+
+
+
+
+/* three section  */
+
+
+
+footer{
+    background-color: #2E3A59;
+}
+
+footer h3{
+    color: #00B569 !important ;
+}
+
+footer p{
+    color: #ffffff;
+    font-size: 14px !important;
+    margin-bottom: 1rem;
+}
+
+.icon-1{
+    color: #FFFFFF !important;
+    margin: 0 14px !important;
+}
+
+.icons{
+    margin-top: 85px !important;
+}
+
+
+
+
+
+
+
+
+/* three section end  */
