@@ -19,6 +19,7 @@
     #One-section .one-text h1{
         font-size: 25px !important;
     }
+    
 
     #One-section .one-text p{
         font-size: 12px !important;
@@ -35,7 +36,6 @@
     }
 }
 
-
 @media screen  and (max-width:321px){
     #One-section .one-text h1{
         font-size: 25px !important;
@@ -43,5 +43,8 @@
 
     #One-section .one-text p{
         font-size: 12px !important;
+    }
+    .slick-slide {
+        width: 313px!important;
     }
 }

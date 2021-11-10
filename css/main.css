@@ -39,7 +39,7 @@ header {
 /* one section  */
 
 .text1{
-    text-align: center;
+    text-align: left;
     font-weight: 600;
     font-size: 55px;
 }
@@ -57,7 +57,16 @@ header {
     color: #00B569;
     font-weight: 500;
     font-size: 16px;
-    margin: 0 55px;
+    text-align: left;
+}
+
+.about a{
+    margin-right: 50px;
+}
+
+.about-text{
+    width: 55% !important;
+    margin: 15px;
 }
 
 .button1{
@@ -69,16 +78,12 @@ header {
 
 .about{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .one-section {
     background: #F4F8FB !important;
 }
-.main-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
+
 .img-main{
     position: static !important;
     z-index: 0;
