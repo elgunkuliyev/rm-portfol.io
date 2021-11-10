@@ -19,6 +19,10 @@
     footer{
         text-align: center;
     }
+
+    .social-items{
+        margin-bottom: 35px !important;
+    }
 }
 
 @media screen and (max-width:800px){

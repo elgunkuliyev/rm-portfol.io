@@ -15,4 +15,8 @@
     footer{
         text-align: center;
     }
+
+    .social-items{
+        margin-bottom: 35px !important;
+    }
 }
