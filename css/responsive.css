@@ -343,6 +343,10 @@
             margin-right: 1px !important;
         }
 
+        .navbar{
+            margin-left: -28px !important;
+         }
+
         .about-text {
             margin-top: 20rem !important;
             margin-bottom: 3rem !important;
