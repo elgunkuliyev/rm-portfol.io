@@ -87,6 +87,10 @@
             margin: 0 !important;
         }
 
+        .navbar-nav{
+            height: 15px !important;
+        }
+
 
         .about-text {
             margin-top: 21rem !important;
@@ -110,6 +114,10 @@
             margin-top: 21rem !important;
             margin-bottom: 3rem !important;
             width: 100% !important;
+        }
+
+        .navbar-nav{
+            height: 12px !important;
         }
 
         .icon-1{
