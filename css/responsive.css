@@ -164,6 +164,10 @@
             margin-left: -28px !important;
          }
 
+         .navbar-nav{
+            height: 10px !important;
+        }
+
         .about-text {
             margin-top: 21rem !important;
             margin-bottom: 3rem !important;
@@ -205,6 +209,11 @@
         .navbar{
             margin-left: -28px !important;
          }
+
+         
+        .navbar-nav{
+            height: 10px !important;
+        }
 
         .about-text {
             margin-top: 23rem !important;
@@ -271,6 +280,10 @@
             margin-left: -28px !important;
          }
 
+         .navbar-nav{
+            height: 10px !important;
+        }
+
         .icon-1{
             margin: 0 10px !important;
         }
@@ -332,6 +345,10 @@
            margin-left: -28px !important;
         }
 
+        .navbar-nav{
+            height: 10px !important;
+        }
+
         .text1{
             font-size: 18px !important;
         }
@@ -357,6 +374,10 @@
         .navbar{
             margin-left: -28px !important;
          }
+
+         .navbar-nav{
+            height: 10px !important;
+        }
 
         .about-text {
             margin-top: 20rem !important;
@@ -419,6 +440,10 @@
             margin-bottom: 3rem !important;
             margin-left: 1rem !important;
             width: 100% !important;
+        }
+
+        .navbar-nav{
+            height: 125px !important;
         }
 
         .icons svg{
