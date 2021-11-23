@@ -223,6 +223,52 @@
     }
 
 
+    @media screen and (max-width:409px){
+        .image-r img{
+            width: 70%;
+        }
+
+        .about{
+            margin: 0 !important;
+        }
+
+        .row{
+            margin-right: 1px !important;
+        }
+
+        .button1{
+            font-size: 10px !important;
+            width: 115px !important;
+        }
+
+        .about p{
+            font-size: 13px !important;
+        }
+
+        .about-text {
+            margin-top: 18rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 1rem !important;
+            width: 100% !important;
+        }
+
+        .icon-1{
+            margin: 0 10px !important;
+        }
+
+        .paragraf p{
+            font-size: 11px !important;
+        }
+
+        .text1{
+            font-size: 18px !important;
+        }
+        .text2{
+            font-size: 14px !important;
+        }   
+    }
+
+
     @media screen and (max-width:376px){
         .image-r img{
             width: 70%;
