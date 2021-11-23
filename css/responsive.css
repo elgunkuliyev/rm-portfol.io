@@ -22,307 +22,313 @@
 
 
     @media screen and (max-width:768px){
-        .button1{
-            width: 122px;
-            font-size: 12px;
+        .image-r img{
+            width: 70%;
+        }
+
+        .about{
+            margin: 0 !important;
         }
 
 
-        .about p{
-            width: 125px;
-            font-size: 12px;
+        .about-text {
+            margin-top: 34rem !important;
+            margin-bottom: 3rem !important;
+            width: 100% !important;
         }
 
-
-        .text1{
-            font-size: 33px;
+        .footers{
+            margin-top: 0px !important;
         }
     }
 
 
     
+
     @media screen and (max-width:576px){
+        .image-r img{
+            width: 70%;
+        }
 
-        .about-text{
-            margin: 15px !important;
+        .about{
+            margin: 0 !important;
         }
 
 
-        .button1{
-            width: 122px;
-            font-size: 12px;
+        .about-text {
+            margin-top: 25rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 2rem !important;
+            width: 100% !important;
         }
-
-
-        .footers{
-            margin-top: 6rem;
-        }
-
-        .about p{
-            width: 125px;
-            font-size: 12px;
-        }
-
 
         .text1{
-            font-size: 33px;
+            font-size: 23px;
+        }
+
+        .icons svg{
+            width: 15px;
+        }
+
+        .paragraf p{
+            font-size: 13px !important;
         }
     }
 
 
 
-    @media screen and (max-width:535px){
-        .icons svg{
-            width: 15px;
-            height: 15px;
+    
+    @media screen and (max-width:480px){
+        .image-r img{
+            width: 70%;
         }
 
-        .text1{
-            font-size: 31px;
+        .about{
+            margin: 0 !important;
         }
 
-        .paragraf p{
-            font-size: 14px;
-        }
-    }
 
-
-    @media screen and (max-width:500px){
-        .icons svg{
-            width: 15px;
-            height: 15px;
-        }
-
-        .text1{
-            font-size: 29px;
-        }
-
-        .paragraf p{
-            font-size: 14px;
-        }
-    }
-
-
-    @media screen and (max-width:490px){
-        .icons svg{
-            width: 15px;
-            height: 15px;
-        }
-
-        .text1{
-            font-size: 27px;
-        }
-
-        .paragraf p{
-            font-size: 13px;
+        .about-text {
+            margin-top: 21rem !important;
+            margin-bottom: 3rem !important;
+            width: 100% !important;
         }
     }
 
 
     @media screen and (max-width:462px){
-        .icons svg{
-            width: 12px;
-            height: 12px;
+        .image-r img{
+            width: 70%;
         }
 
-        .text1{
-            font-size: 25px;
+        .about{
+            margin: 0 !important;
         }
 
-        .paragraf p{
-            font-size: 12px;
-        }
-    }
 
-
-    @media screen and (max-width:432px){
-        .icons svg{
-            width: 12px;
-            height: 12px;
+        .about-text {
+            margin-top: 21rem !important;
+            margin-bottom: 3rem !important;
+            width: 100% !important;
         }
 
-        .text1{
-            font-size: 25px;
-        }
-
-        .paragraf p{
-            font-size: 11px;
-        }
-
-        .about-text{
-            margin: 12px !important;
-        }
-    }
-
-
-    @media screen and (max-width:414px){
-        .icons svg{
-            width: 12px;
-            height: 12px;
-        }
-
-        .icon-1 {
-            margin: 0 14px !important;
-        }
-
-        .text1{
-            font-size: 23px;
-        }
-
-        .paragraf p{
-            font-size: 11px;
-        }
-
-        .about-text{
-            margin: 12px !important;
-        }
-    }
-
-
-    @media screen and (max-width:398px){
-        .icons svg{
-            width: 12px;
-            height: 12px;
-        }
-
-        .icon-1 {
-            margin: 0 14px !important;
-        }
-
-        .text1{
-            font-size: 23px;
-        }
-
-        .paragraf p{
-            font-size: 10px;
-        }
-
-        .about-text{
-            margin: 12px !important;
-        }
-    }
-
-    @media screen and (max-width:381px){
-        .icons svg{
-            width: 11px;
-            height: 11px;
-        }
-
-        .icon-1 {
-            margin: 0 12px !important;
-        }
-
-        .text1{
-            font-size: 21px;
-        }
-
-        .paragraf p{
-            font-size: 9px;
-        }
-
-        .about-text{
-            margin: 12px !important;
-        }
-    }
-
-
-    @media screen and (max-width:344px){
-        .icons svg{
-            width: 10px;
-            height: 10px;
-        }
-
-        .icon-1 {
-            margin: 0 11px !important;
-        }
-
-        .text1{
-            font-size: 19px;
-        }
-
-        .text2{
-            font-size: 15px;
-        }
-
-        .paragraf p{
-            font-size: 9px;
-            margin-top: 6px;
-        }
-
-          .icon-1 {
-            margin: 0 14px !important;
-        }
-
-        .about-text{
-            margin: 12px !important;
-        }
-    }
-
-
-    @media screen and (max-width:331px){
-        .icons svg{
-            width: 10px;
-            height: 10px;
-        }
-
-        .icon-1 {
+        .icon-1{
             margin: 0 10px !important;
         }
 
-        .text1{
-            font-size: 19px;
-        }
-
-        .text2{
-            font-size: 15px;
-        }
-
         .paragraf p{
-            font-size: 9px;
-        }
-
-        .about-text{
-            margin: 0px !important;
+            font-size: 11px !important;
         }
     }
 
 
-    @media screen and (max-width:323px){
-        .icons svg{
-            width: 10px;
-            height: 10px;
+    @media screen and (max-width:450px){
+        .image-r img{
+            width: 70%;
         }
 
-        .icon-1 {
+        .about{
+            margin: 0 !important;
+        }
+
+
+        .about-text {
+            margin-top: 21rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 1rem !important;
+            width: 100% !important;
+        }
+
+        .icon-1{
+            margin: 0 10px !important;
+        }
+
+        .paragraf p{
+            font-size: 11px !important;
+        }
+        
+    }
+
+
+
+    @media screen and (max-width:425px){
+        .image-r img{
+            width: 70%;
+        }
+
+        .about{
+            margin: 0 !important;
+        }
+
+
+        .about-text {
+            margin-top: 21rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 1rem !important;
+            width: 100% !important;
+        }
+
+        .icon-1{
+            margin: 0 10px !important;
+        }
+
+        .paragraf p{
+            font-size: 11px !important;
+        }
+
+        .text1{
+            font-size: 18px !important;
+        }
+        .text2{
+            font-size: 14px !important;
+        }   
+    }
+
+
+    @media screen and (max-width:415px){
+        .image-r img{
+            width: 70%;
+        }
+
+        .about{
+            margin: 0 !important;
+        }
+
+        .row{
+            margin-right: 1px !important;
+        }
+
+
+        .about-text {
+            margin-top: 21rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 1rem !important;
+            width: 100% !important;
+        }
+
+        .icon-1{
+            margin: 0 10px !important;
+        }
+
+        .paragraf p{
+            font-size: 11px !important;
+        }
+
+        .text1{
+            font-size: 18px !important;
+        }
+        .text2{
+            font-size: 14px !important;
+        }   
+    }
+
+
+    @media screen and (max-width:376px){
+        .image-r img{
+            width: 70%;
+        }
+
+        .about{
+            margin: 0 !important;
+        }
+
+        .row{
+            margin-right: 1px !important;
+        }
+
+
+
+
+        .about-text {
+            margin-top: 16rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 1rem !important;
+            width: 100% !important;
+        }
+
+        .icons svg{
+            width: 14px !important;
+        }
+
+        .icon-1{
             margin: 0 8px !important;
         }
 
-        .text1{
-            font-size: 13px;
+        .paragraf p{
+            font-size: 10px !important;
         }
 
-        .text2{
-            font-size: 13px;
-        }
-
-        .button1 {
-            width: 110px;
-            font-size: 10px;
-        }
-
-        about p {
-            width: 125px;
+        .about p{
             font-size: 12px;
         }
 
+        .text1{
+            font-size: 18px !important;
+        }
+        .text2{
+            font-size: 14px !important;
+        }   
+    }
+
+
+
+    @media screen and (max-width:322px){
+        .image-r img{
+            width: 60%;
+        }
+
+        .about{
+            margin: 0 !important;
+        }
+
+        .row{
+            margin-right: 1px !important;
+        }
+
+
+        .button1{
+            font-size: 9px !important;
+            width: 104px !important;
+        }
+
+        .about-text {
+            margin-top: 10rem !important;
+            margin-bottom: 3rem !important;
+            margin-left: 1rem !important;
+            width: 100% !important;
+        }
+
+        .icons svg{
+            width: 12px !important;
+        }
+
+        .icon-1{
+            margin: 0 8px !important;
+        }
+
         .paragraf p{
+            font-size: 8px !important;
+        }
+
+        .about p{
             font-size: 9px;
         }
 
-        .about-text{
-            margin: 12px !important;
+        .text1{
+            font-size: 18px !important;
         }
+        .text2{
+            font-size: 14px !important;
+        }   
     }
+
+
+
+    
+
+
+    
+  
 
     
   
