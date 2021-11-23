@@ -317,6 +317,10 @@
             font-size: 12px;
         }
 
+        .navbar{
+           margin-left: -28px !important;
+        }
+
         .text1{
             font-size: 18px !important;
         }
