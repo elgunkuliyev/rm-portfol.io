@@ -160,6 +160,9 @@
             margin: 0 !important;
         }
 
+        .navbar{
+            margin-left: -28px !important;
+         }
 
         .about-text {
             margin-top: 21rem !important;
@@ -259,6 +262,10 @@
         .container-fluid{
             margin-top: 3rem !important;
         }
+
+        .navbar{
+            margin-left: -28px !important;
+         }
 
         .icon-1{
             margin: 0 10px !important;
