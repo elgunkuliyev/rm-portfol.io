@@ -2,7 +2,7 @@ const form = document.getElementById("form");
 const username = document.getElementById("userName");
 const email = document.getElementById("email");
 const password = document.getElementById("password");
-const password2 = document.getElementById("confirmPassword");
+const cars = document.getElementById("cars");
 
 form.addEventListener("submit", e => {
   e.preventDefault();
@@ -16,7 +16,7 @@ function checkInputs() {
   const usernameValue = username.value.trim(); //trim to delete blanc space.
   const emailValue = email.value.trim();
   const passwordValue = password.value.trim();
-  const password2Value = password2.value.trim();
+  const carsValue = cars.value.trim();
   let checked = true;
   if (usernameValue === "") {
     setErrorInput(username, "Adinizi daxil edin");
@@ -42,11 +42,11 @@ function checkInputs() {
   }
 
   //###################################
-  if (password2Value === "") {
-    setErrorSelect(password2, "Kurs seçin");
+  if (carsValue === "") {
+    setErrorSelect(cars, "Kurs seçin");
     checked = false;
   } else {
-    setSuccessSelect(password2);
+    setSuccessSelect(cars);
   }
   return checked;
 }
