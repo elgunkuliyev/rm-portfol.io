@@ -43,10 +43,10 @@ function checkInputs() {
 
   //###################################
   if (password2Value === "") {
-    setErrorInput(password2, "Kurs seçin");
+    setErrorSelect(password2, "Kurs seçin");
     checked = false;
   } else {
-    setSuccessInput(password2);
+    setSuccessSelect(password2);
   }
   return checked;
 }
