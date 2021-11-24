@@ -141,6 +141,22 @@ margin-top: 40px;
 }
 
 
+ select{
+  color:#8F9BB3 !important;
+  width: 330px;
+  padding: 10px !important;
+  border-radius: 5px;
+  height: 47px;
+  background-color: #F7F9FC;
+  margin: 0 10px;
+  border: 2px solid #E4E9F2
+}
+
+.form__control {
+  display: flex;
+  flex-direction: column;
+}
+
 
 .form__control input{
   background:   #F7F9FC;
